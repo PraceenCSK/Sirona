@@ -55,19 +55,19 @@ function App() {
         <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
        
           <h6 class="text-uppercase fw-bold mb-4">
-            Products
+          PERIOD CARE
           </h6>
           <p>
-            <a href="#!" class="text-reset">Angular</a>
+            <a href="#!" class="text-reset">SHOP BY PRODUCT</a>
           </p>
           <p>
-            <a href="#!" class="text-reset">React</a>
+            <a href="#!" class="text-reset">MENSTRUAL CUPS</a>
           </p>
           <p>
-            <a href="#!" class="text-reset">Vue</a>
+            <a href="#!" class="text-reset">MENSTRUAL LUBRICANT</a>
           </p>
           <p>
-            <a href="#!" class="text-reset">Laravel</a>
+            <a href="#!" class="text-reset">TAMPONS</a>
           </p>
         </div>
        
@@ -76,19 +76,19 @@ function App() {
         <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
         
           <h6 class="text-uppercase fw-bold mb-4">
-            Useful links
+          USEFUL LINKS
           </h6>
           <p>
-            <a href="#!" class="text-reset">Pricing</a>
+            <a href="#!" class="text-reset">ABOUT US</a>
           </p>
           <p>
-            <a href="#!" class="text-reset">Settings</a>
+            <a href="#!" class="text-reset">CONTACT US</a>
           </p>
           <p>
-            <a href="#!" class="text-reset">Orders</a>
+            <a href="#!" class="text-reset">OUR IMPACT</a>
           </p>
           <p>
-            <a href="#!" class="text-reset">Help</a>
+            <a href="#!" class="text-reset">SELF DEFENCE</a>
           </p>
         </div>
       
@@ -115,8 +115,8 @@ function App() {
 
   
   <div class="text-center p-4" >
-    © 2021 Copyright:
-    <a class="text-reset fw-bold" href="https://mdbootstrap.com/">MDBootstrap.com</a>
+    © 2021 Sirona Hygiene:
+    <a class="text-reset fw-bold" href="https://mdbootstrap.com/">Private Limited</a>
   </div>
 
 </footer>

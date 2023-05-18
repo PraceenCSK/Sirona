@@ -1,0 +1,42 @@
+.text{
+font-size: 10px;
+font-weight: bold;
+background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(224,160,160,1) 0%, rgba(244,251,252,1) 46%);
+width: 439px;
+justify-content: center;
+}
+.best{
+    font-size: 10px;
+    font-weight: bold;
+    background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(224,160,160,1) 0%, rgba(244,251,252,1) 46%);
+    width: 500px;
+    justify-content: center;
+    }
+.bestsel{
+    width: 400px;
+    height: 450px;
+}
+.card{
+    width: 350px;
+    margin: 30px;
+text-align: center;
+}
+
+.card :hover{
+    transform: scale(1.0);
+}
+.get{
+    height: 200px;
+    width: 2500px;
+    justify-content: center;
+}
+.get2{
+    justify-content: center;
+}
+.dirty{
+    width: 400px;
+    height: 300px;
+}
+.sirona{
+    width: 120px;
+}
